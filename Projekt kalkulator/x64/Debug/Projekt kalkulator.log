@@ -1,0 +1,5 @@
+﻿  Projekt kalkulator.cpp
+C:\Users\Właściciel\Desktop\Microsoft visual sturdio projekty\Projekt kalkulator\Projekt kalkulator\Projekt kalkulator.cpp(73,35): warning C4101: 'average': unreferenced local variable
+C:\Users\Właściciel\Desktop\Microsoft visual sturdio projekty\Projekt kalkulator\Projekt kalkulator\Projekt kalkulator.cpp(73,15): warning C4101: 'c': unreferenced local variable
+C:\Users\Właściciel\Desktop\Microsoft visual sturdio projekty\Projekt kalkulator\Projekt kalkulator\Projekt kalkulator.cpp(73,18): warning C4101: 'd': unreferenced local variable
+C:\Users\Właściciel\Desktop\Microsoft visual sturdio projekty\Projekt kalkulator\Projekt kalkulator\Projekt kalkulator.cpp(77): error C4700: uninitialized local variable 'choice' used
